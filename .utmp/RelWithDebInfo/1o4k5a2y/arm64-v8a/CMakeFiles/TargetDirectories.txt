@@ -1,0 +1,5 @@
+C:/UnityProject/Mindfullness_ARProject/.utmp/RelWithDebInfo/1o4k5a2y/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/UnityProject/Mindfullness_ARProject/.utmp/RelWithDebInfo/1o4k5a2y/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/UnityProject/Mindfullness_ARProject/.utmp/RelWithDebInfo/1o4k5a2y/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/UnityProject/Mindfullness_ARProject/.utmp/RelWithDebInfo/1o4k5a2y/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/UnityProject/Mindfullness_ARProject/.utmp/RelWithDebInfo/1o4k5a2y/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

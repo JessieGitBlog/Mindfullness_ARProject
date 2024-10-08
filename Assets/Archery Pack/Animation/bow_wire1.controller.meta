@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b001772a655ff84b923a87a535717ed
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 258041
+  packageName: Archery Pack
+  packageVersion: 1.0
+  assetPath: Assets/Archery Pack/Animation/bow_wire1.controller
+  uploadId: 593195

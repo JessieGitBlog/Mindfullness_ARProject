@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 635a6ce1afc0e434d9b502ff07fef4aa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 258041
+  packageName: Archery Pack
+  packageVersion: 1.0
+  assetPath: Assets/Archery Pack/Scene/demo/LightingData.asset
+  uploadId: 593195
